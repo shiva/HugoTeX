@@ -1,12 +1,12 @@
 name = "HugoTeX"
 license = "MIT"
-licenselink = "https://github.com/7ma7X/HugoTeX/blob/master/LICENSE"
+licenselink = "https://github.com/shiva/HugoTeX/blob/master/LICENSE"
 description = "LaTeX style hugo theme"
-homepage = "https://hugotex.netlify.app/"
+homepage = "https://blog.shiv.me/theme"
 tags = ["blog", "minimal", "simple", "LaTeX"]
 features = ["minimal", "simple", "responsive", "syntax highlight", "LaTeX"]
 min_version = "0.60.1"
 
 [author]
-  name = "HelloRusk"
-  homepage = "https://hellorusk.net"
+  name = "HelloRuskClone"
+  homepage = "https://blog.shiv.me/"
